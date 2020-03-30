@@ -1,0 +1,2 @@
+# minimo
+Task - 7
